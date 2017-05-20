@@ -38,7 +38,7 @@ scp -P 1234 /home/$USER/aaaammjj-hhmmss.info.json root@IP_ou_NDD:/home/yunohost.
 scp -P 1234 /home/$USER/aaaammjj-hhmmss.tar.gz root@IP_ou_NDD:/home/yunohost.backup/archives
 ```
 
-Pour les enregistrer sur un autre disque il faut monter le disque dur dans /home/yunohost.backup/archives#
+Pour les enregistrer sur un autre disque il faut monter le disque dur dans /home/yunohost.backup/archives
 
 
 
